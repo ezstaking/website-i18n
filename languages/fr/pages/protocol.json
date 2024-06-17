@@ -1,0 +1,29 @@
+{
+  "seo_title": "",
+  "need_help_delegating_intro": "Besoin d'aide pour déléguer ? Notre guide de staking pour {protocolName} est là pour vous aider.",
+  "market_cap": "Cap. du marché",
+  "price": "Prix",
+  "rewards": "Récompenses",
+  "slashing": "Slashing",
+  "inflation": "Inflation",
+  "unbonding": "Déliement",
+  "compounding": "Composition",
+  "protocol_details": {
+    "rewards": {
+      "0": "Distribué automatiquement à chaque bloc"
+    },
+    "slashing": {
+      "0": "Aucune pénalité pour coupure"
+    },
+    "inflation": {
+      "0": "Déflationniste sur la base de la participation au staking"
+    },
+    "unbonding_period": {
+      "0": "Pas de période de déliaison | Période de déliaison de {d} jour | Période de déliaison de {d} jours"
+    },
+    "compounding": {
+      "0": "Nouvelle délégation requise"
+    }
+  },
+  "frequently_asked_questions": "Foire aux questions"
+}

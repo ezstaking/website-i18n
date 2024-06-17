@@ -1,0 +1,202 @@
+{
+  "layouts": {
+    "seo": {
+      "template": "{title} - EZ Staking",
+      "title": "EZ Стейкинг"
+    },
+    "navbar": {
+      "protocols": "Протоколы",
+      "guides": "Инструкции",
+      "blog": "Блог",
+      "news": "Новости",
+      "about": "О нас",
+      "tools": "Инструменты",
+      "faq": "Часто задаваемые вопросы",
+      "stake_with_us": "Стейк с нами",
+      "lang_switcher": {
+        "title": "Переключение языка"
+      }
+    },
+    "stake_now": "Стейк теперь",
+    "see_all": "Видеть все",
+    "brand_kit": "Пакет бренда",
+    "legal_notices": "Juridicheskie уведомления",
+    "cookies_management": "Управление cookie",
+    "calculate_rewards": "Расчет вознаграждений",
+    "rewards_calculator": "Калькулятор вознаграждений",
+    "find_out_more": "ПОأكнут 更多"
+  },
+
+  // By components
+  "components": {
+    // Protocol/Latest.vue
+    "protocol_latest": {
+      "latest": "Последние доступные протоколы"
+    },
+
+    // NeedHelpDelegating.vue
+    "need_help_delegating": {
+      "need_help": "Нужна помощь",
+      "delegating": "делигировать?",
+      "our_medium_tutorials_are": "Нашими Медиум-туториалы здесь помочь"
+    }
+  },
+
+  // By pages
+  "pages": {
+
+    // blog/index.vue
+    "blog": {
+      "seo_title": "Блог",
+      "title": "Блог",
+      "subtitle": "Блог untertitle"
+    },
+
+    // guides/index.vue
+    "guides": {
+      "seo_title": "Инструкции",
+      "title": "Инструкции",
+      "subtitle": "Изучите и освойте основные сведения с нашими подробными инструкциями"
+    },
+
+    // news/index.vue
+    "news": {
+      "seo_title": "Новости",
+      "title": "Новости",
+      "subtitle": "Новости subtitle"
+    },
+
+    // protocols/index.vue
+    "protocols": {
+      "seo_title": "Протоколы",
+      "title": "Протоколы",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu turpis quis ex dapibus sollicitudin. Nulla risus nulla, egestas eget hendrerit vel, venenatis at justo. Nulla facilisi. (EN)",
+      "all": "Протоколы",
+      "upcoming": "Предстоящие протоколы",
+      "inactive": "Недействующие протоколы",
+      "latest": "Последние протоколы"
+    },
+
+    // protocols/[id].vue
+    "protocol": {
+      "seo_title": "",
+      // @fixme
+      "need_help_delegating_intro": "Нужна помощь при делегировании? Наш Уूज переложен для Вам助",
+      "market_cap": "Рыночная капитализация",
+      "price": "Цена",
+      "rewards": "Вознаграждения",
+      "slashing": "Protection от штрафа",
+      "inflation": "Инфляция",
+      "unbonding": "Permno Олилова",
+      "compounding": "Складывание",
+      "protocol_details": {
+        "rewards": {
+          "0": "Розничная от каждого блока"
+        },
+        "slashing": {
+          "0": "Взаимодействие с штрафовыми санкциями"
+        },
+        "inflation": {
+          "0": "Отрицательная инфляция в зависимости от делегирования"
+        },
+        "unbonding_period": {
+          "0": "Без размещения периода | {d} дневной период размещения | {d} дней размещения"
+        },
+        "compounding": {
+          "0": "Новый деплой"
+        }
+      },
+      "frequently_asked_questions": "Часто задаваемые вопросы"
+    },
+
+    // about.vue
+    "about": {
+      "seo_title": "О нас",
+      "title": "О нас",
+      "subtitle": "Изучите более о EZ Staking и нашей миссии"
+    },
+
+    // brand-kit.vue
+    "brand_kit": {
+      "seo_title": "Пакет бренда",
+      "title": "Пакет бренда",
+      "subtitle": "Скачайте nuestros официальный пакет бренда и овладите итентифитетом EZ Staking"
+    },
+
+    // contact.vue
+    "contact": {
+      "seo_title": "Контакт",
+      "title": "Контакт",
+      "subtitle": "Свяжитесь с нами: задайте вопрос, оставьте отзыв или привет"
+    },
+
+    // faq.vue
+    "faq": {
+      "seo_title": "Часто задаваемые вопросы",
+      "title": "Часто задаваемые вопросы",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. (EN)",
+      "cant_find_what_youre_looking_for": "Невозможно найти то, что вы ищете?",
+      "contact_us": "Свяжитесь с нами"
+    },
+
+    // index.vue
+    "home": {
+      "earn_rewards_by_securing": "Привлекайте награды, защищая блокчейны",
+      "ez_staking_is_a_staking_provider": "EZ Staking - это провайдер стейкинга, помогающий вам выра<button  yourائيمة cryптоакт masa/set>",
+      "start_now": "Начните сейчас",
+      "what_about": "А что о ",
+      "ez_staking": "EZ Staking?",
+      "we_provide_you_with": "Мы предоставляем вам высококвалифицированную архитектуру для вашей делегированной операции.",
+      "protection": "Защита",
+      "ez_staking_offers_you": "EZ Staking предлагает вам мягкую защиту от штрафов и возвращает время ухода 100%",
+      "monitoring": "Monitoring",
+      "our_servers_are_monitored": "Наш сервер мониторятся круглосуточно для обеспечения вам лучшего качества услуг.",
+      "expertise": "Компетензия",
+      "expertise_intro": "Validators с апреля 2021 года. Создатель JunoMint и приложения EZ Staking. Мы участвуем в большей мере в адопции cryптоакт masa/set>",
+      "ready_come": "Готово?",
+      "join_us": "Присоединитесь к нам!",
+      "you_can_find_us_on": "Вы можете найти нас на",
+      "or_write_us_by": "или отправьте нам сообщение по",
+      "see_you_soon": "Встретимсяsoon!"
+    },
+
+    // privacy.vue
+    "privacy": {
+      "seo_title": "Политика конфиденциальности",
+      "title": "Политика конфиденциальности",
+      "subtitle": "Как мы защищаем ваш личную информацию и данные"
+    },
+
+    // rewards.vue
+    "rewards": {
+      "seo_title": "",
+      "title": "",
+      "subtitle": "",
+      "calculate_your_rewards": "Расчитайте свои награды",
+      "calculate_your_rewards_intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. (EN)",
+      "pick_one": "Выберите",
+      "select_your_protocol": "Выберите ваш протокол",
+      "customize_your_amount": "Настройте свой объем",
+      "your_rewards_earnings": "Ваши доходы от наград",
+      "annualized_reward": "Годовой доход",
+      "monthly_earnings": "Месячного дохода",
+      "yearly_earnings": "Годовой доход",
+      "learn_more_about": "Узнайте больше о {protocol}",
+      "apr": "APR: {amount}"
+    },
+
+    // tools.vue
+    "tools": {
+      "seo_title": "Инструменты",
+      "title": "Инструменты",
+      "subtitle": "Инструменты subtitle"
+    },
+
+    // tos.vue
+    "tos": {
+      "seo_title": "Условия обслуживания",
+      "title": "Условия обслуживания",
+      "subtitle": "Договор об использовании и условия работы EZ Staking"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "seo_title": "",
+  "title": "",
+  "subtitle": "",
+  "calculate_your_rewards": "Calculer vos récompenses",
+  "calculate_your_rewards_intro": "Obtenez une estimation de vos récompenses potentielles",
+  "pick_one": "Choisir",
+  "select_your_protocol": "Sélectionner un protocole",
+  "customize_your_amount": "Ajuster le montant",
+  "your_rewards_earnings": "Vos gains des récompenses",
+  "annualized_reward": "Récompense annualisée",
+  "monthly_earnings": "Gains mensuels",
+  "yearly_earnings": "Gains annuels",
+  "learn_more_about": "En savoir plus sur {protocol}",
+  "apr": "TAEG: {amount}"
+}

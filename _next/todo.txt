@@ -1,0 +1,20 @@
+OK    1. English                  en-US
+NOK   2. Mandarin Chinese         /
+NOK   3. Hindi                    hi-IN
+OK    4. Spanish                  es-ES
+OK    5. French                   fr-FR
+NOK   6. Modern Standard Arabic   ar-XA
+NOK   7. Bengali                  bn-BD
+NOK   8. Portuguese               pt-PT
+NOK   9. Russian                  ru-RU
+NOK   10. Urdu                    ur-PK
+
+
+Other
+-----
+NOK   Chinois Continentale (simplifié)           zh-CN
+
+{{zh-cn}} : chinois de Chine continentale
+{{zh-hk}} : chinois de Hong Kong
+{{zh-sg}} : chinois de Singapour
+{{zh-tw}} : chinois de Taïwan

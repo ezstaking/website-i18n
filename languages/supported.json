@@ -1,0 +1,23 @@
+[
+  {
+    "code": "en",
+    "iso": "en-US",
+    "url": "https://i18n.ezstaking.dev/en.json",
+    "name": "English",
+    "dir": "ltr"
+  },
+  {
+    "code": "es",
+    "iso": "es-ES",
+    "url": "https://i18n.ezstaking.dev/es.json",
+    "name": "Español",
+    "dir": "ltr"
+  },
+  {
+    "code": "fr",
+    "iso": "fr-FR",
+    "url": "https://i18n.ezstaking.dev/fr.json",
+    "name": "Français",
+    "dir": "ltr"
+  }
+]

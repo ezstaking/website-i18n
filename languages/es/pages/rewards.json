@@ -1,0 +1,16 @@
+{
+  "seo_title": "",
+  "title": "",
+  "subtitle": "",
+  "calculate_your_rewards": "Calculate your rewards",
+  "calculate_your_rewards_intro": "Obtenga una estimación de sus posibles recompensas",
+  "pick_one": "Elegir uno",
+  "select_your_protocol": "Selecciona tu protocolo",
+  "customize_your_amount": "Personaliza tu importe",
+  "your_rewards_earnings": "Tu recompensa y ganancias",
+  "annualized_reward": "Recompensa anualizada",
+  "monthly_earnings": "Ingresos mensuales",
+  "yearly_earnings": "Ganancias anuales",
+  "learn_more_about": "Más información sobre {protocol}",
+  "apr": "TAE: {amount}"
+}

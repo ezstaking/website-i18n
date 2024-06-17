@@ -1,0 +1,29 @@
+{
+  "seo_title": "",
+  "need_help_delegating_intro": "¿Necesita ayuda para delegar? Nuestra guía de apuestas de {protocolName} está aquí para ayudarle.",
+  "market_cap": "Cap. de mercado",
+  "price": "Precio",
+  "rewards": "Recompensas",
+  "slashing": "Slashing",
+  "inflation": "Inflación",
+  "unbonding": "Desvinculado",
+  "compounding": "Compuesto",
+  "protocol_details": {
+    "rewards": {
+      "0": "Distribuido automáticamente en cada bloque"
+    },
+    "slashing": {
+      "0": "No hay penalizaciones por acuchillamiento"
+    },
+    "inflation": {
+      "0": "Deflación basada en la participación en las staking"
+    },
+    "unbonding_period": {
+      "0": "sin período de desvinculación | {d} día de desvinculación | {d} días de desvinculación"
+    },
+    "compounding": {
+      "0": "Se requiere una nueva delegación"
+    }
+  },
+  "frequently_asked_questions": "Preguntas frecuentes"
+}
