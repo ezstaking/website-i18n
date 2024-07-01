@@ -21,7 +21,7 @@
       "0": "Deflationary based on staking participation"
     },
     "unbonding_period": {
-      "0": "no unbonding period | {d} day unbonding period | {d} days unbonding period"
+      "0": "No unbonding period | {n} day unbonding period | {n} days unbonding period"
     },
     "compounding": {
       "0": "New delegation required"

@@ -1,5 +1,5 @@
 {
-  "need_help": "¿Necesita ayuda para",
-  "delegating": " delegar?",
+  "need_help": "¿Necesita ayuda para {delegating}",
+  "delegating": "delegar?",
   "our_medium_tutorials_are": "Nuestras guías de staking están aquí para guiarlo."
 }

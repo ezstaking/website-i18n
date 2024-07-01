@@ -19,7 +19,7 @@
       "0": "Deflación basada en la participación en las staking"
     },
     "unbonding_period": {
-      "0": "sin período de desvinculación | {d} día de desvinculación | {d} días de desvinculación"
+      "0": "Sin período de desvinculación | {n} día de desvinculación | {n} días de desvinculación"
     },
     "compounding": {
       "0": "Se requiere una nueva delegación"

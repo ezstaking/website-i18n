@@ -19,7 +19,7 @@
       "0": "Déflationniste sur la base de la participation au staking"
     },
     "unbonding_period": {
-      "0": "Pas de période de déliaison | Période de déliaison de {d} jour | Période de déliaison de {d} jours"
+      "0": "Pas de période de déliaison | Période de déliaison de {n} jour | Période de déliaison de {n} jours"
     },
     "compounding": {
       "0": "Nouvelle délégation requise"

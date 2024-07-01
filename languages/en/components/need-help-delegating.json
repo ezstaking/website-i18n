@@ -1,5 +1,5 @@
 {
-  "need_help": "Need help",
+  "need_help": "Need help {delegating}",
   "delegating": "delegating?",
   "our_medium_tutorials_are": "Our staking guides are here to guide you."
 }
