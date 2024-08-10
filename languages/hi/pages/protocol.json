@@ -1,31 +1,31 @@
 {
   "seo_title": "",
-  "need_help_delegating_intro": "Need help delegating? Our {protocolName} Staking Guide is here to help you.",
-  "market_cap": "Market Cap",
-  "price": "Price",
-  "rewards": "Rewards",
-  "slashing": "Slashing",
-  "inflation": "Inflation",
-  "unbonding": "Unbonding",
-  "compounding": "Compounding",
+  "need_help_delegating_intro": "प्रतिनियुक्ति में मदद चाहिए? हमारी {protocolName} हिस्सेदारी मार्गदर्शिका आपकी मदद के लिए यहां है।",
+  "market_cap": "बाजार पूंजीकरण",
+  "price": "कीमत",
+  "rewards": "पुरस्कार",
+  "slashing": "कटौती",
+  "inflation": "मुद्रास्फीति",
+  "unbonding": "बंधन-मुक्ति",
+  "compounding": "चक्रवृद्धि",
   "protocol_details": {
     "rewards": {
-      "0": "Distributed automatically every block"
+      "0": "हर ब्लॉक पर स्वचालित रूप से वितरित"
     },
     "slashing": {
-      "0": "No slashing penalties",
-      "1": "Downtime: {d}%",
-      "2": "Doublesign: {d}%"
+      "0": "कोई कटौती दंड नहीं",
+      "1": "निष्क्रियता: {d}%",
+      "2": "दोहरा हस्ताक्षर: {d}%"
     },
     "inflation": {
-      "0": "Deflationary based on staking participation"
+      "0": "हिस्सेदारी भागीदारी के आधार पर अपस्फीतिकारी"
     },
     "unbonding_period": {
-      "0": "No unbonding period | {n} day unbonding period | {n} days unbonding period"
+      "0": "कोई बंधन-मुक्ति अवधि नहीं | {n} दिन की बंधन-मुक्ति अवधि | {n} दिनों की बंधन-मुक्ति अवधि"
     },
     "compounding": {
-      "0": "New delegation required"
+      "0": "नई प्रतिनियुक्ति की आवश्यकता"
     }
   },
-  "frequently_asked_questions": "Frequently Asked Questions"
+  "frequently_asked_questions": "अक्सर पूछे जाने वाले प्रश्न"
 }
