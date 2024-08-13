@@ -1,0 +1,31 @@
+{
+  "seo_title": "",
+  "need_help_delegating_intro": "Need help delegating? Our {protocolName} Staking Guide is here to help you.",
+  "market_cap": "Market Cap",
+  "price": "Price",
+  "rewards": "Rewards",
+  "slashing": "Slashing",
+  "inflation": "Inflation",
+  "unbonding": "Unbonding",
+  "compounding": "Compounding",
+  "protocol_details": {
+    "rewards": {
+      "0": "Distributed automatically every block"
+    },
+    "slashing": {
+      "0": "No slashing penalties",
+      "1": "Downtime: {d}%",
+      "2": "Doublesign: {d}%"
+    },
+    "inflation": {
+      "0": "Deflationary based on staking participation"
+    },
+    "unbonding_period": {
+      "0": "No unbonding period | {n} day unbonding period | {n} days unbonding period"
+    },
+    "compounding": {
+      "0": "New delegation required"
+    }
+  },
+  "frequently_asked_questions": "Frequently Asked Questions"
+}

@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "template": "{title} - EZ Staking",
+    "title": "EZ Staking"
+  },
+  "navbar": {
+    "protocols": "Protocols",
+    "guides": "Guides",
+    "services": "Services",
+    "blog": "Blog",
+    "news": "News",
+    "about": "About",
+    "tools": "Tools",
+    "faq": "FAQ",
+    "stake_with_us": "Stake with us",
+    "lang_switcher": {
+      "title": "Switch language"
+    }
+  },
+  "stake_now": "Stake now",
+  "see_all": "See all",
+  "brand_kit": "Brand kit",
+  "legal_notices": "Legal notices",
+  "cookies_management": "Cookies management",
+  "calculate_rewards": "Rewards calculator",
+  "tools": "Tools",
+  "rewards_calculator": "Rewards Calculator",
+  "find_out_more": "Find out more"
+}
