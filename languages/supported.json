@@ -19,5 +19,12 @@
     "url": "https://i18n.ezstaking.dev/fr.json",
     "name": "Français",
     "dir": "ltr"
+  },
+  {
+    "code": "hi",
+    "iso": "hi-IN",
+    "url": "https://i18n.ezstaking.dev/hi.json",
+    "name": "हिन्दी",
+    "dir": "ltr"
   }
 ]

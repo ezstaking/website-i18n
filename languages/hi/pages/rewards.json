@@ -1,0 +1,16 @@
+{
+  "seo_title": "",
+  "title": "",
+  "subtitle": "",
+  "calculate_your_rewards": "अपने पुरस्कारों की गणना करें",
+  "calculate_your_rewards_intro": "अपने संभावित पुरस्कारों का अनुमान प्राप्त करें",
+  "pick_one": "एक चुनें",
+  "select_your_protocol": "अपनी प्रोटोकॉल चुनें",
+  "customize_your_amount": "अपनी राशि अनुकूलित करें",
+  "your_rewards_earnings": "आपकी पुरस्कार कमाई",
+  "annualized_reward": "वार्षिक पुरस्कार",
+  "monthly_earnings": "मासिक कमाई",
+  "yearly_earnings": "वार्षिक कमाई",
+  "learn_more_about": "{protocol} के बारे में अधिक जानें",
+  "apr": "वार्षिक प्रतिशत दर: {amount}"
+}

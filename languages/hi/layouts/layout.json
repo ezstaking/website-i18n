@@ -1,0 +1,29 @@
+{
+  "seo": {
+    "template": "{title} - EZ Staking",
+    "title": "EZ Staking"
+  },
+  "navbar": {
+    "protocols": "प्रोटोकॉल्स",
+    "guides": "मार्गदर्शिकाएँ",
+    "services": "सेवाएँ",
+    "blog": "ब्लॉग",
+    "news": "समाचार",
+    "about": "हमारे बारे में",
+    "tools": "उपकरण",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
+    "stake_with_us": "हमारे साथ स्टेक (जमा) करें",
+    "lang_switcher": {
+      "title": "भाषा बदलें"
+    }
+  },
+  "stake_now": "अभी स्टेक (जमा) करें",
+  "see_all": "सभी देखें",
+  "brand_kit": "ब्रांड किट",
+  "legal_notices": "कानूनी नोटिस",
+  "cookies_management": "कुकीज़ प्रबंधन",
+  "calculate_rewards": "पुरस्कार गणक",
+  "tools": "उपकरण",
+  "rewards_calculator": "पुरस्कार गणक",
+  "find_out_more": "और जानें"
+}
